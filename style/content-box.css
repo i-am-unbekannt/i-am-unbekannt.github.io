@@ -1,0 +1,99 @@
+div#content-box {
+	position: absolute;
+	height: max-content;
+	width: 930px;
+	margin: 90px 0px 100px 400px;
+	font-family: "Segoe UI";
+}
+
+h1#H1-Inst {
+	margin-top: 0px;
+	font-size: 33px;
+	color: #cccccc;
+}
+
+a#H1-A-Inst {
+	font-size: 33px;
+	color: #1b1b1d;
+}
+
+h1#H1-Inst:hover > a#H1-A-Inst {
+	color: #8a92e1;
+}
+
+a#H1-A-Inst:hover {
+	text-decoration: underline;
+}
+
+p#s-text {
+	font-size: 16px;
+	color: #cccccc;
+	margin-bottom: 20px;
+}
+
+div#infobox {
+	margin-top: 40px;
+	border-left: 5px solid #4cb3d4;
+	border-radius: 8px;
+	height: 113px;
+	width: 920px;
+	color: #cccccc;
+	background-color: #193c47;
+	margin-bottom: 40px;
+}
+
+img#Eimg {
+	float: left;
+	height: 30px;
+	width: 30px;
+	padding-top: 12px;
+	padding-left: 5px;
+}
+
+p#Ibox {
+	padding-top: 15px;
+}
+
+p#ITex {
+	padding-left: 15px;
+	padding-right: 16px;
+}
+
+a#a-text {
+	border-radius: 5px;
+	background: #323234;
+	color: #e3e3e3;
+}
+
+a#a-ref {
+	color: #cccccc;
+}
+
+a#a-ref:hover {
+	color: #8a92e1;
+	text-decoration: underline;
+}
+
+p#s-text2 {
+	font-size: 16px;
+	color: #8a92e1;
+	margin-bottom: 60px;
+}
+
+div#t {
+	position: absolute;
+	height: 50px;
+	width: 135px;
+	border-left: 1px solid gray;
+	margin: 0px 0px 100px 990px;
+	font-family: "Segoe UI";
+}
+
+a#alink {
+	padding-left: 5px;
+	color: #cccccc;
+}
+
+a#alink:hover {
+	color: #8a92e1;
+}

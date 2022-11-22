@@ -1,0 +1,59 @@
+div#backend {
+  height: 300px;
+  width: 100%;
+  background-color: #303846;
+}
+
+div#backglob {
+  margin: auto;
+  width: 100%;
+  display: inline-flex;
+}
+
+div#docs {
+  margin: 50px 0px auto auto;
+  width: 200px;
+/*  border: 1px solid green;*/
+  font-family: "IBM Plex Mono";
+  color: #cccccc;
+  font-size: 20px;
+}
+a#DocsA {
+  color: #cccccc;
+}
+a#DocsA:hover {
+  text-decoration: underline;
+  color: #8a92e1;
+}
+
+div#community {
+  margin: 50px 100px auto 100px;
+/*  border: 1px solid green;*/
+  font-family: "IBM Plex Mono";
+  width: 400px;
+  color: #cccccc;
+  font-size: 20px;
+}
+a#comA {
+  color: #cccccc;
+}
+a#comA:hover {
+  text-decoration: underline;
+  color: #8a92e1;
+}
+
+div#more {
+  margin: 50px auto auto 0px;
+/*  border: 1px solid green;*/
+  width: 102px;
+  font-family: "IBM Plex Mono";
+  color: #cccccc;
+  font-size: 20px;
+}
+a#moreA {
+  color: #cccccc;
+}
+a#moreA:hover {
+  text-decoration: underline;
+  color: #8a92e1;
+}
